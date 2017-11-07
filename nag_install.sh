@@ -30,8 +30,8 @@ make install-config
 make install-commandmode
 make install-webconf
 
-# Change the admin password
-htpasswd -c /usr/local/nagios/etc/htpasswd.users nagiosadmin
+# Change the administrator password
+htpasswd -c /usr/local/nagios/etc/htpasswd.users nagiosadrmin
 
 cd /tmp/nagios-plugins-2.1.1
 
