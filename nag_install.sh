@@ -4,7 +4,7 @@
 #                           #
 # Install Nagios            #
 #                           #   
-# Aaron VanAlstie           #
+# Aaron VanAlstine          #
 #                           #
 ############################# 
 
